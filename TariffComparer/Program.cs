@@ -1,6 +1,6 @@
-﻿using TariffComparer.BL;
-using System;
+﻿using System;
 using System.Collections.Generic;
+using TariffComparer.BL;
 
 namespace TariffComparer
 {
@@ -21,7 +21,7 @@ namespace TariffComparer
         }
 
     }
-    
+
 
 }
 

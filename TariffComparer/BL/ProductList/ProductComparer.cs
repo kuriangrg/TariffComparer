@@ -1,10 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
 
 namespace TariffComparer.BL
 {
-    public class ProductComparer:IProductComparer
+    public class ProductComparer : IProductComparer
     {
         public List<Product> CreateAndSortProductList(int consumption)
         {

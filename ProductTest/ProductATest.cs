@@ -1,4 +1,3 @@
-using TariffComparer;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using TariffComparer.BL;
 

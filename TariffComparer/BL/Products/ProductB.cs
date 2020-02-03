@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace TariffComparer.BL
+﻿namespace TariffComparer.BL
 {
     public class ProductB : Product
     {

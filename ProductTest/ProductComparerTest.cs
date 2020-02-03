@@ -1,7 +1,6 @@
-using TariffComparer;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using TariffComparer.BL;
 using System.Collections.Generic;
+using TariffComparer.BL;
 
 namespace ProductTest
 {
@@ -17,8 +16,8 @@ namespace ProductTest
         public void Test_SortProductList_3500()
         {
 
-            List<Product> productList=ProductComparerInstance.CreateAndSortProductList(3500);
-            Assert.IsTrue(productList[0].AnnualCosts<=productList[1].AnnualCosts);
+            List<Product> productList = ProductComparerInstance.CreateAndSortProductList(3500);
+            Assert.IsTrue(productList[0].AnnualCosts <= productList[1].AnnualCosts);
         }
         [TestMethod]
         public void Test_PackagedTariff_4500()
