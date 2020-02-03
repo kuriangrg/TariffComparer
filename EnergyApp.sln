@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29609.76
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TariffComparer", "ConsoleApp1\TariffComparer.csproj", "{57CFAA36-329D-4A88-99A3-753ED468DEBC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TariffComparer", "TariffComparer\TariffComparer.csproj", "{57CFAA36-329D-4A88-99A3-753ED468DEBC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductTest", "ProductTest\ProductTest.csproj", "{C4AC2F13-C297-40B5-A77D-C73D0D445A0E}"
 EndProject
